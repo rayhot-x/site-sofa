@@ -1,4 +1,4 @@
-# site-sofa
+# web-sofa
 This website is designed for a company that sells sofas. The site has a backend that sends an email to the site owner about the order.
 # name company
 ![image](https://github.com/user-attachments/assets/4729ae62-4604-453b-8802-8faddb041856)
